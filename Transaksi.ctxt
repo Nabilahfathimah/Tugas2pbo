@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Transaksi
+comment1.params=
+comment1.target=Transaksi()
+comment2.params=
+comment2.target=java.lang.String\ namaPeserta()
+comment3.params=
+comment3.target=java.lang.String\ tampilkanJenisJasa()
+comment4.params=
+comment4.target=java.lang.String\ tampilkanPenyediaJasa()
+comment5.params=
+comment5.target=java.lang.String\ tampilkanKeterangan()
+comment6.params=
+comment6.target=int\ jumlahkanBiayaJasa()
+numComments=7
